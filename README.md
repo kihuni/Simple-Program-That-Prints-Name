@@ -1,3 +1,3 @@
 # Simple-Program-That-Prints-Name
 
-## this program will print my Name
+## The Aim Of This Program Is To Print A Name
