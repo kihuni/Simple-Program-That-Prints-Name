@@ -1,0 +1,19 @@
+body{
+    text-align: center;
+    font-size: 18px;
+    background-color: darkgrey;
+    background-image: url(logo/intern.png);
+    background-repeat:inherit;
+}
+p{
+    color: #ffff;
+}
+button{
+    padding: 0.3rem 0.3rem;
+    border-radius: 2em;
+    background-color: darkslateblue;
+    color: #ffff;
+}
+footer p a{
+    color:darkslateblue;
+}
